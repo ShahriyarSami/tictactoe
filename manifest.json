@@ -13,7 +13,7 @@
         "sizes": "192x192"
       }
     ],
-    "start_url": "/",
+    "start_url": "/tictactoe",
     "background_color": "#0f0",
     "display": "standalone",
     "theme_color": "#0f0"
